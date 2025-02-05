@@ -1,0 +1,10 @@
+# These are some bank names in Nigeria.
+
+    Access Bank plc, part of Access Bank Group.
+    Citibank Nigeria Ltd, part of Citigroup.
+    Ecobank Nigeria Plc, part of Ecobank Group.
+    Fidelity Bank Plc.
+    First Bank Nigeria Ltd, part of First Bank of Nigeria Group.
+    First City Monument Bank Plc.
+    Globus Bank Ltd.
+    Guaranty Trust Bank Plc, part of GTCO Group.
