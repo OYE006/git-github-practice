@@ -1,4 +1,4 @@
-"""A program to prompt for a CGPA score."""
+"""Modified program to prompt for a CGPA score."""
 
 
 def computegrade():
